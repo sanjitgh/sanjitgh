@@ -1,4 +1,4 @@
-# 💫 About Me: My name is Sanjit. I'm Front End Web Develper.
+# 💫 My name is Sanjit. I'm Front End Web Develper.
 🔭 I’m currently working on front end development <br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning MERN STACK<br>💬 Ask me about any web related questions <br>⚡ Fun fact I am comfortable with you
 
 
