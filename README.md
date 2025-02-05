@@ -1,25 +1,92 @@
-# 💫 My name is Sanjit. I'm Front End Web Develper.
-🔭 I’m currently working on front end development <br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning MERN STACK<br>💬 Ask me about any web related questions <br>⚡ Fun fact I am comfortable with you
+<div align="center">
+  <img height="500" src="https://i.ibb.co.com/67nXZgp1/pxfuel.jpg"  />
+</div>
 
+###
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sanjitweb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjitwebin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjitweb) 
+<h2 align="left">👋 Hello,</h2>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanjitgh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanjitgh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjitgh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanjitgh&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+<p align="left">I'm Sanjit Kumar Ghosh a Full Stack MERN Developer passionate about building scalable and user-friendly web applications. I specialize in React, Node.js, Express.js, and MongoDB, with a focus on clean code and performance. Always exploring new technologies, I love turning ideas into reality. 🚀</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanjitgh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="left">🧐 More About Me:</h2>
 
----
-[![](https://visitcount.itsvg.in/api?id=sanjitgh&icon=0&color=4)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">- 💻I’m working on Web Applications<br>- 📚 I'm currently learning Typescript <br>- ⚡ In my free time I play video game<br>- 🎮 When I’m not coding, you’ll probably find me playing games or exploring new tech.<br>- 🧑‍💻 Code Whisperer – I swear my computer sometimes understands me better than people.</p>
+
+###
+
+<h2 align="left">⚙️ Language and Skills:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="41" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="41" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="41" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="41" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="41" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="41" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=express" height="41" alt="express logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="41" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="41" alt="jquery logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="41" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="41" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="41" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="41" alt="vite logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="41" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 align="left">🔗   Social Links:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/sanjitweb" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="54" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://x.com/sanjitweb" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sanjitweb" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/26760605/sanjit-kumar-ghosh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="54" height="40" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">🔥   Stats:</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjitgh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sanjitgh&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjitgh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
