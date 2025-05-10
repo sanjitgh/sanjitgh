@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://i.ibb.co.com/1BjXLDb/wp8725091-mongodb-wallpapers.jpg" />
+  <img height="500" src="[https://i.ibb.co.com/1BjXLDb/wp8725091-mongodb-wallpapers.jpg](https://i.ibb.co.com/pBSp5Jtq/linkedin-banner.png)" />
 </div>
 
 ###
