@@ -85,7 +85,7 @@
 
 <div align="left">
  
-  <img src="https://nirzak-streak-stats.vercel.app?user=sanjitgh&theme=react&mode=weekly" height="150" width:"100%" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=sanjitgh&theme=react&mode=weekly" height="150" width:"800" alt="GitHub Streak" />
 
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjitgh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
